@@ -1,0 +1,13 @@
+body{
+background-size: cover;
+}
+.header {
+width : 100%;
+}
+.ins {
+display: inline;
+float: right;
+}
+.header2 {
+display: inline;
+}
