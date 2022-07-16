@@ -11,3 +11,25 @@ float: right;
 .header2 {
 display: inline;
 }
+#restart{
+float : left;
+}
+.modal-dialog {
+width : 90%;
+}
+.ins_img {
+width : 45%;
+}
+.copy-right-footer {
+background-color: silver;
+line-height: 2;
+color : white;
+font-weight: bold;
+font-style: italic;
+font-size: 18px;
+bottom : 0;
+position: fixed;
+float : bottom;
+text-align: center;
+width: 100%;
+}
